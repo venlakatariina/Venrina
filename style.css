@@ -1,0 +1,91 @@
+.icons{
+position: absolute;
+top: 550px;
+left: 170px;
+}
+
+.icons a{
+    text-decoration: none;
+    margin-right: 50px;
+}
+
+.fa-brands.fa-spotify.fa-4x{
+    color:rgb(156, 72, 131);
+}
+
+.fa-brands.fa-square-youtube.fa-4x{
+    color:rgb(156, 72, 131);
+
+}
+
+.fa-brands.fa-tiktok.fa-4x{
+    color:rgb(156, 72, 131);
+}
+
+.fa-brands.fa-instagram.fa-4x{
+    color:rgb(156, 72, 131);
+}
+
+.fa-brands.fa-facebook.fa-4x{
+    color:rgb(156, 72, 131);
+}
+head {
+
+    <style>
+    .spotify-icon{
+        display: block;
+        margin: auto;
+    }
+
+    </style>
+}
+
+body {
+
+    
+    
+    
+    .spotify-icon {
+        color: rgb(156, 72, 131);
+        
+    
+
+    }
+    .youtube-icon {
+        color: rgb(156, 72, 131);
+
+    }
+
+    .tiktok-icon {
+        color: rgb(156, 72, 131);
+    }
+
+    .instagram-icon {
+        color: rgb(156, 72, 131);
+    }
+
+    .facebook-icon {
+        color: rgb(156, 72, 131);
+    }
+   
+    margin: 0px;
+    padding: 0px;
+    
+}
+.background
+{
+    width: 100%;
+    height: 100vh;
+    background-image:url(Venrina-6.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+
+
+
+
+}
+    
+
+
+
